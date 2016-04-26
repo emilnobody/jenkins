@@ -17,6 +17,5 @@ public class UtilsTest extends TestCase {
         assertEquals(false, Utils.isEven(3));
         assertEquals(true, Utils.isEven(10));
         assertEquals(true, Utils.isEven(-10));
-        assertEquals(true, Utils.isEven(11));
     }
 }
