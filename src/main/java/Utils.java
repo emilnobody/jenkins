@@ -6,7 +6,7 @@ package main.java;
 public class Utils {
 
     public static int multiplyBy4(int mul){
-        return mul * 5;
+        return mul * 4;
     }
 
     public static boolean isEven(int number){
